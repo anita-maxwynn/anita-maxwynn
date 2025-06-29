@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Currently exploring single-instruction computing and computer networks  <br>
 👯 Open to collaboration on exciting tech projects  <br>
-🤝 Looking for guidance to kickstart Rust development  <br>
+🤝 Looking for guidance to kickstart Go development  <br>
 🌱 Diving into Machine Learning  <br>
 💬 Ask me anything about full-stack development with Python  <br>
 ⚡ Fun fact: "If it ain't diddy party, it ain't much!" 🎉  
