@@ -42,6 +42,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=anita-maxwynn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anita-maxwynn&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anita-maxwynn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<figure><embed src="https://wakatime.com/share/@a0a303a4-b3ff-4a1a-999e-fa9e20235504/7fdcd66e-be7f-48b6-a9a8-fcb1e1cc249d.svg"></embed></figure>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anita-maxwynn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
