@@ -44,6 +44,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
 ---
+# 📊 GFG Stats
+[![anita-maxwynn's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=csexxfj46)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=anita-maxwynn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
