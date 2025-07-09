@@ -55,7 +55,8 @@
 ---
 
 # ⌛ WakaTime Activity
->[![wakatime](https://wakatime.com/badge/user/a0a303a4-b3ff-4a1a-999e-fa9e20235504.svg)](https://wakatime.com/@a0a303a4-b3ff-4a1a-999e-fa9e20235504)
+> [![wakatime](https://wakatime.com/badge/user/a0a303a4-b3ff-4a1a-999e-fa9e20235504.svg)](https://wakatime.com/@a0a303a4-b3ff-4a1a-999e-fa9e20235504)
+
 > Powered by [WakaTime](https://wakatime.com)
 ![Wakatime Stats](https://wakatime.com/share/@a0a303a4-b3ff-4a1a-999e-fa9e20235504/7fdcd66e-be7f-48b6-a9a8-fcb1e1cc249d.svg)
 
