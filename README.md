@@ -43,8 +43,26 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
 ---
-# 📊 GFG Stats
-[![anita-maxwynn's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=csexxfj46)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+# 📊 Competitive Programming Stats
+
+<table>
+  <tr>
+    <tr>
+    <th><b>📊 Codechef Stats</b></th>
+    <th><b>📊 GFG Stats</b></tr>
+      <tr>
+        <td>
+      <a href="https://www.codechef.com/users/team_tryst_51">
+        <img src="https://codechef-readme-stats.onrender.com/team_tryst_51" alt="Codechef Stats">
+      </a>
+    </td>
+        <td>
+      <a href="https://github.com/napiyo/geeksForGeeksStatsAPI">
+        <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=csexxfj46" alt="GFG Stats">
+      </a>
+    </td>
+  </tr>
+</table>
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=anita-maxwynn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
