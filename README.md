@@ -57,7 +57,7 @@
       </a>
     </td>
         <td>
-      <a href="https://github.com/napiyo/geeksForGeeksStatsAPI">
+      <a href="https://www.geeksforgeeks.org/user/csexxfj46/">
         <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=csexxfj46" alt="GFG Stats">
       </a>
     </td>
