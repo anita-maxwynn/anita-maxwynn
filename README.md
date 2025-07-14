@@ -1,8 +1,7 @@
 # 💫 About Me
 - 🔭 Currently exploring **Single-Instruction Computing** & **Computer Networks**
 - 👯 Open to collaboration on **exciting tech projects**
-- 🤝 Looking for guidance to **kickstart Go development**
-<!-- 🌱 Diving into **Machine Learning**-->
+- 🤝 Looking for guidance to **kickstart Go development**<!-- 🌱 Diving into **Machine Learning**-->
 - 💬 Ask me anything about **Full-Stack Development with Python**
 - ⚡ Fun fact: *"If it ain't diddy party, it ain't much!"* 🎉
 
